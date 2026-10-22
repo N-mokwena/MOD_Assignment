@@ -37,7 +37,7 @@
         android:id="@+id/expiryDate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Expiry date (YYYY-MM-DD)" />
+        android:hint="Expiry date (YYYY-MM-DD) or (YYYY/MM/DD)" />
 
     <CheckBox
         android:id="@+id/favorite"
